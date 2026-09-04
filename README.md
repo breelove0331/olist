@@ -1,4 +1,4 @@
-# Olist Delivery Delay Analysis
+# Olist E-commerce Customer Experience Analysis
 
 ## 프로젝트 배경
 
